@@ -108,7 +108,6 @@ namespace TrayAppWithMutex.Forms {
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tray App With Mutex";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmMain_FormClosing);
             this.GbSettings.ResumeLayout(false);
             this.GbSettings.PerformLayout();
             this.ResumeLayout(false);
