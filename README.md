@@ -1,2 +1,2 @@
 # TrayAppWithMutex
-An example application running on the system tray.
+An example application running on the system tray for WinForms.
